@@ -16,7 +16,7 @@ The code contains a token minting and burning function as requested in the asses
   <li> Congratulations, the code is successfully running. </li>
 </ol>
 
-<h2> 🤍 Authors </h2>
+<h2> 🖤 Authors </h2>
 Bhumit
 
 <h2> License </h2>
